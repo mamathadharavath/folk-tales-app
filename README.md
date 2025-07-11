@@ -2,7 +2,7 @@
 
 An interactive web app that showcases a collection of Telugu folk tales collected through Swecha's corpus initiative. The app allows users to browse, search, and enjoy traditional stories in Telugu.
 
-🔗 **Live App**: [https://mamathadharavath-folk-tales-app.streamlit.app](https://mamathadharavath-folk-tales-app.streamlit.app)
+🔗 **Live App**: [https://mamathadharavath-folk-tales-app.streamlit.app](https://folk-tales-app-trt2cvmu2vz3rnrmtrgzpd.streamlit.app/)
 
 ---
 
